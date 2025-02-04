@@ -1,4 +1,4 @@
-This is not the original repository. I have forked this repository, so that I can create the json file that is useful for my own projects, right now. If you want to check the original repository, please proceed towards this link: https://github.com/htetoozin/Myanmar-NRC
+This is not the original repository. I have forked this repository, for my own project, but you can use freely, if you want. If you want to check the original repository, please proceed towards this link: https://github.com/htetoozin/Myanmar-NRC
 
 
 The following are the files
