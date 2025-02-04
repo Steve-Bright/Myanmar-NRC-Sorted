@@ -1,1 +1,1 @@
-<img width="776" alt="screenshot" src="https://github.com/htetoozin/Myanmar-NRC/assets/20137363/81844032-3d37-4e21-876b-30c7f221c010">
+This is not the original repository. I have forked this repository, so that I can create the json file that is useful for my own projects, right now. If you want to check the original repository, please proceed towards this link: https://github.com/htetoozin/Myanmar-NRC
